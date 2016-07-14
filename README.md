@@ -1,6 +1,6 @@
 # Homepage Slick Slider
 
-[Solodev's](https://www.solodev.com/) twist on a homepage slider is modern, responsive, and easy to implement. Based on [Slick Slider by Ken Wheeler](http://kenwheeler.github.io/slick/), this slider is agency tested and ready for your web project. The slider can be used out-of-the-box and includes innate responsive styling within a Bootstrap framework.
+[Solodev's](https://www.solodev.com/) twist on a homepage slider is modern, responsive, and easy to implement. Based on [Slick Slider by Ken Wheeler](http://kenwheeler.github.io/slick/), this slider is agency tested and ready for your web project. The slider can be used out-of-the-box and includes innate responsive styling within a Bootstrap framework. Tested in Chrome, Firefox, and Edge.
 
 ## Tutorial
 
